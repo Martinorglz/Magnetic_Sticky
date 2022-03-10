@@ -11,3 +11,8 @@ Any user can download the zip file for test and learning, I will add the updated
 > 1. replace all links on **app.json/app.js/app.css** from **https://martintest0302.cpgc.cn40.apps.platform.sapcloud.cn/** into **https://localhost:3000/AppliedCustomWidget/app/**. 
 > 2. change the content of "id" and "webcomponents:{"tag"}" in the **app.json** file in order to avoid overwrite the existing SAP BTP version. 
 
+For more information or help, plz contact me via:
+* martingaoorglz@gmail.com
+* gaolianzhanmark@163.com
+or you can directly pm me on Wechat ***if you have***.
+
