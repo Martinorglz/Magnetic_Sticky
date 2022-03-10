@@ -6,5 +6,8 @@
 
 Any user can download the zip file for test and learning, I will add the updated codes occasionally， **more info plz check the update content**.
 
-> The code in the zip file is the version that run on **SAP BTP only**, for debuggging locally, plz replace all links on **app.json/app.js/app.css** from **https://martintest0302.cpgc.cn40.apps.platform.sapcloud.cn/** into **https://localhost:3000/AppliedCustomWidget/app/**.
+> The code in the zip file is the version that run on **SAP BTP only**.
+> If you want to run and debug this product locally, you should 
+> 1. replace all links on **app.json/app.js/app.css** from **https://martintest0302.cpgc.cn40.apps.platform.sapcloud.cn/** into **https://localhost:3000/AppliedCustomWidget/app/**. 
+> 2. change the content of "id" and "webcomponents:{"tag"}" in the **app.json** file in order to avoid overwrite the existing SAP BTP version. 
 
