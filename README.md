@@ -16,7 +16,8 @@ You will see any new changes/updates/features about Magnetic Sticky on **release
 
 For more information or help, plz contact me via:
 * martingaoorglz@gmail.com
-* gaolianzhanmark@163.com
+* gaolianzhan@outlook.com
+* matthias@gao-x.ru
 
 or you can directly pm me on Wechat ***if you have***.
 
